@@ -1,0 +1,103 @@
+<svg height="878" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="878" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+
+<tspan x="10" y="42">[MODE_BUILD=buildApidoc] - 2018-04-21T18:46:13.757Z - npm-testing /home/travis/build/kaizhu256/n\</tspan>
+<tspan x="10" y="58">ode-swgg-github-users</tspan>
+
+<tspan x="10" y="74"></tspan>
+
+<tspan x="10" y="90"></tspan>
+
+<tspan x="10" y="106">buildApidoc - merged test-report from file /home/travis/build/kaizhu256/node-swgg-github-users/t\</tspan>
+<tspan x="10" y="122">mp/build/test-report.json</tspan>
+
+<tspan x="10" y="138">override assets assets.swgg.swagger.json</tspan>
+
+<tspan x="10" y="154">&gt; server listening on http-port 52255</tspan>
+
+<tspan x="10" y="170">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/package.json</tspan>
+
+<tspan x="10" y="186">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/assets.swgg.swagg\</tspan>
+<tspan x="10" y="202">er.json</tspan>
+
+<tspan x="10" y="218">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/.gitignore</tspan>
+
+<tspan x="10" y="234">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/lib.swgg_github_u\</tspan>
+<tspan x="10" y="250">sers.js</tspan>
+
+<tspan x="10" y="266">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/LICENSE</tspan>
+
+<tspan x="10" y="282">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/package.json</tspan>
+
+<tspan x="10" y="298">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/README.md</tspan>
+
+<tspan x="10" y="314">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/test.js</tspan>
+
+<tspan x="10" y="330">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/.touch.txt</tspan>
+
+<tspan x="10" y="346">apidocCreate - readExample /home/travis/build/kaizhu256/node-swgg-github-users/.travis.yml</tspan>
+
+<tspan x="10" y="362">apidocCreate - requiring /home/travis/build/kaizhu256/node-swgg-github-users ...</tspan>
+
+<tspan x="10" y="378">apidocCreate - ... required /home/travis/build/kaizhu256/node-swgg-github-users</tspan>
+
+<tspan x="10" y="394">created apidoc file /home/travis/build/kaizhu256/node-swgg-github-users/tmp/build/apidoc.html</tspan>
+
+<tspan x="10" y="410"></tspan>
+
+<tspan x="10" y="426">[node test-case 1 of 1 passed] - testCase_buildApidoc_default</tspan>
+
+<tspan x="10" y="442">(node:7385) ExperimentalWarning: The http2 module is an experimental API.</tspan>
+
+<tspan x="10" y="458">(node:7385) [DEP0025] DeprecationWarning: sys is deprecated. Use util instead.</tspan>
+
+<tspan x="10" y="474"></tspan>
+
+<tspan x="10" y="490">buildApidoc - merged test-report from file /home/travis/build/kaizhu256/node-swgg-github-users/t\</tspan>
+<tspan x="10" y="506">mp/build/test-report.json</tspan>
+
+<tspan x="10" y="522"></tspan>
+
+<tspan x="10" y="538">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="554">| test-report - buildApidoc - node - linux v9.11.1 - 2018-04-21T18:46:13.954Z</tspan>
+
+<tspan x="10" y="570">|     256 ms            0 failed        1 passed      |</tspan>
+
+<tspan x="10" y="586">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="602">| test-report - buildApp - node - linux v9.11.1 - 2018-04-21T18:44:47.801Z</tspan>
+
+<tspan x="10" y="618">|   83362 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="634">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="650">| test-report - npmTest - browser - /index.default.html - Mozilla/5.0 (X11; Linux x86_64) AppleW\</tspan>
+<tspan x="10" y="666">ebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Electron/1.7.13 Safari/537.36 - 2018-04-21\</tspan>
+<tspan x="10" y="682">T18:45:56.553Z</tspan>
+
+<tspan x="10" y="698">|      16 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="714">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="730"></tspan>
+
+<tspan x="10" y="746">created test-report file /home/travis/build/kaizhu256/node-swgg-github-users/tmp/build/test-repo\</tspan>
+<tspan x="10" y="762">rt.html</tspan>
+
+<tspan x="10" y="778"></tspan>
+
+<tspan x="10" y="794"></tspan>
+
+<tspan x="10" y="810">buildApidoc - 0 failed tests</tspan>
+
+<tspan x="10" y="826"></tspan>
+
+<tspan x="10" y="842"></tspan>
+
+<tspan x="10" y="858">[MODE_BUILD=buildApidoc] - 2018-04-21T18:46:15.678Z - EXIT_CODE - 0</tspan>
+
+</text>
+</svg>
